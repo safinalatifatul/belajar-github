@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>belajar specificity</title>
+    <style>
+        .p1{
+            color: teal;
+        }
+        .p{
+            color: lightblue;
+        }
+        ul#list-sarapan{
+            color: blue;
+        }
+        .favorit{
+            color: purple;
+        }
+        .menu a{
+            color: lightslategray;
+        }
+        .menu a.active{
+            color: aquamarine;
+        }
+    </style>
+</head>
+<body>
+    <p class="p1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta expedita, error fugiat asperiores quis similique laboriosam enim dolorum non adipisci quia ea debitis ut ratione temporibus voluptatibus aut? Expedita, consequuntur!</p>
+<ul id="list-sarapan">
+    <li class="favorit">seblak</li> 
+    <li>Nasi padang</li>
+    <li>Nasi Goreng</li>   
+</ul>
+    <div class="menu">
+        <a href="" class="active">home</a>
+        <a href="">about </a> 
+        <a href="">contact</a> 
+    </div>
+</body>
+</html>

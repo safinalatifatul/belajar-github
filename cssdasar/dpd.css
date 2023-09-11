@@ -1,0 +1,15 @@
+h1{
+    color: yellow;
+    font-variant: small-caps;
+    text-decoration: underline;
+    word-spacing: 20px;
+    letter-spacing: 5px;
+
+}
+.tambah-diri{
+    color: purple;
+    background: palegoldenrod;
+}
+table{
+    background: blue;
+}

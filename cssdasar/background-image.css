@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.background{
+    height: 600px;
+    background-image: url("backgound-image.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+    font-size: 54px;
+    color: white;
+    text-align: center;
+    line-height: 600px;
+}
+.h1:hover{
+    color:blue;
+}

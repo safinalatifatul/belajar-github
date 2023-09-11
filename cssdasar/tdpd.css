@@ -1,0 +1,10 @@
+h1{
+    color: yellow;
+    font-variant: small-caps;
+    text-decoration: underline;
+    word-spacing:9px;
+    letter-spacing: 2px;
+}
+body{
+    background: green;
+}

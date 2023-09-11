@@ -1,0 +1,76 @@
+.smk{
+    font-variant: small-caps;
+}
+.smk:hover{
+    text-align: center;
+    background: blue;
+}
+.home{
+    cursor: pointer;
+}
+
+
+.ab{
+    cursor: pointer;
+}
+.ab:active{
+    background-color: blue;
+}
+.co{
+    cursor: pointer;
+}
+.co:hover{
+    cursor: pointer;
+    background-color: blue;
+}
+.photo{
+    background-image: url(smk\ jp1.jpg);
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    line-height: 400px;
+    font-size: 30px;
+    color: white;
+    text-decoration: underline;
+    font-variant:small-caps ;
+}
+
+.photo:hover{
+    background: blue;
+    font-variant: small-caps;
+    font-size: 30px;
+    text-align: center;
+    line-height: 400px;
+    color: white;
+    text-decoration: underline;
+}
+.a{
+    font-size: 20px;
+    color: lightblue;
+}
+.a:hover{
+    background: blue;
+}
+.g{
+    font-size: 20px;
+    color: palevioletred
+}
+.g:hover{
+    background-color: brown;
+    color: black;
+}
+.p{
+    font-size: 20px;
+    color: lightgreen;
+}
+.p:hover{
+    background-color: green;
+}
+.c{
+    text-align: center;
+}
+.c:hover{
+    background-color: lightskyblue;
+}

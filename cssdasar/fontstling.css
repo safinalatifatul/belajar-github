@@ -1,0 +1,24 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-style: serif
+}
+.paragraf1{
+    line-height: 50px;
+    font-weight: normal;
+}
+.text-heading{
+    color: blueviolet;
+    font-size: 40px;
+    font-variant: arial;
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+}
+.paragraf-2{
+    text-transform: uppercase;
+    line-height: 30px;
+}

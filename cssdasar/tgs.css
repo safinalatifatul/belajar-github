@@ -1,0 +1,74 @@
+h1{
+    color: black;
+    font-variant: small-caps;
+}
+h1:hover{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+}
+span{
+    color: black;
+}
+.photo{
+    background-image: url(smk\ jp1.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.smk{
+    text-align: center;
+    line-height: 500px;
+    color: lightcyan;
+    font-variant: small-caps;
+    text-decoration: underline;
+    font-size: 70px;
+}
+.Home:active{
+    background-color: blue;
+}
+.dpd:active{
+    background-color: blue;
+}
+.contack:active{
+    background-color: blue;
+}
+.p{
+    font-variant: small-caps;
+    color: darkblue;    
+}
+.hm{
+    color:blue;
+}
+.hm:hover{
+   background-color: lightblue;
+   padding: 10px;
+}
+.basing{
+    color: palevioletred;
+}
+.basing:hover{
+    background-color: brown;
+    padding: 10px;
+}
+.masa{
+    color: green;
+}
+.masa:hover{
+    background-color: lightgreen;
+    padding: 10px;
+}
+
+.warna{
+    text-align: center;
+}
+.warna:hover{
+    background-color: aqua;
+    text-align: center;
+    cursor: pointer;
+}
+.nama{
+    color: dodgerblue;
+}
